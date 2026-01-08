@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+numpy
+xgboost
+scikit-learn
+joblib
+cdsapi
+xarray
+netcdf4
+meteostat
+python-dotenv
+prophet
+pydantic
